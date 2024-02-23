@@ -1,0 +1,9 @@
+/* textos dos links das páginas */
+.link {
+  @apply hover:bg-gray-800 hover:text-white hover:rounded mr-1  transition-all text-sm lg:text-lg;
+}
+
+/* texto da pagína selecionada */
+.active-link {
+  @apply text-white font-bold;
+}

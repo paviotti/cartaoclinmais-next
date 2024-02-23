@@ -1,0 +1,88 @@
+/* Color Theme Swatches in Hex */
+.color-theme_paleta-de-cores-clinMais-1-hex {
+  color: #296ca6;
+}
+.color-theme_paleta-de-cores-clinMais-2-hex {
+  color: #04bfbf;
+}
+.color-theme_paleta-de-cores-clinMais-3-hex {
+  color: #038c8c;
+}
+.color-theme_paleta-de-cores-clinMais-4-hex {
+  color: #f2600c;
+}
+.color-theme_paleta-de-cores-clinMais-5-hex {
+  color: #f29472;
+}
+.color-theme_paleta-de-cores-clinMais-6-hex {
+  color: #f0f0ee;
+}
+.color-theme_paleta-de-cores-clinMais-7-hex {
+  color: #fffffe;
+}
+.color-theme_paleta-de-cores-clinMais-8-hex {
+  color: #fffcf7;
+}
+
+/* Color Theme Swatches in RGBA */
+.color-theme_paleta-de-cores-clinMais-1-rgba {
+  color: rgba(41, 108, 166, 1);
+}
+.color-theme_paleta-de-cores-clinMais-2-rgba {
+  color: rgba(4, 191, 191, 1);
+}
+.color-theme_paleta-de-cores-clinMais-3-rgba {
+  color: rgba(3, 140, 140, 1);
+}
+.color-theme_paleta-de-cores-clinMais-4-rgba {
+  color: rgba(242, 96, 12, 1);
+}
+.color-theme_paleta-de-cores-clinMais-5-rgba {
+  color: rgba(242, 148, 114, 1);
+}
+.color-theme_paleta-de-cores-clinMais-6-rgba {
+  color: rgba(240, 240, 238, 1);
+}
+.color-theme_paleta-de-cores-clinMais-7-rgba {
+  color: rgba(255, 255, 254, 1);
+}
+.color-theme_paleta-de-cores-clinMais-8-rgba {
+  color: rgba(255, 252, 247, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.color-theme_paleta-de-cores-clinMais-1-hsla {
+  color: hsla(207, 60, 40, 1);
+}
+.color-theme_paleta-de-cores-clinMais-2-hsla {
+  color: hsla(180, 95, 38, 1);
+}
+.color-theme_paleta-de-cores-clinMais-3-hsla {
+  color: hsla(180, 95, 28, 1);
+}
+.color-theme_paleta-de-cores-clinMais-4-hsla {
+  color: hsla(21, 90, 49, 1);
+}
+.color-theme_paleta-de-cores-clinMais-5-hsla {
+  color: hsla(15, 83, 69, 1);
+}
+.color-theme_paleta-de-cores-clinMais-6-hsla {
+  color: hsla(60, 6, 93, 1);
+}
+.color-theme_paleta-de-cores-clinMais-7-hsla {
+  color: hsla(60, 100, 99, 1);
+}
+.color-theme_paleta-de-cores-clinMais-8-hsla {
+  color: hsla(37, 100, 98, 1);
+}
+
+/* colors: {
+        blue: " #296CA6",
+        green1: "#04BFBF",
+        green2: "#038C8C",
+        orange1: "#F2600C",
+        orange2: "#F29472",
+        backg: "#F0F0EE",
+        branco1: "#FFFFFE",
+        branco2: "#FFFCF7",
+      }, */
