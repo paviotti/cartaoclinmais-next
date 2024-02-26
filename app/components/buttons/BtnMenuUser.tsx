@@ -1,8 +1,8 @@
 "use client";
 import React, { useContext } from "react";
-import { MenuContext, useMenuContext } from "./MenuContext";
+import { MenuContext, useMenuContext } from "../context/MenuContext";
 import { useState } from "react";
-import NavBarUser from "./NavBarUser";
+import NavBarUser from "../navbar/NavBarUser";
 import IconUser from "../icons/IconUser";
 
 const BtnMenuUser = () => {

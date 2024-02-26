@@ -2,8 +2,8 @@
 import { useState } from "react";
 import IconBarOficial from "../icons/IconBarOficial";
 import IconX from "../icons/IconX";
-import NavBarMobile from "./NavBarMobile";
-import { useMenuContext } from "./MenuContext";
+import NavBarMobile from "../navbar/NavBarMobile";
+import { useMenuContext } from "../context/MenuContext";
 
 const BtnMobileMenu = () => {
   const { isMenuUser, setMenuUser, isMenuOpen, setMenuOpen } = useMenuContext();

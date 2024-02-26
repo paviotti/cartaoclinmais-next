@@ -1,14 +1,12 @@
 import exp from "constants";
 
-export * from "./navbar/Navbar";
-export * from "./navbar/NavbarMainOld";
-export * from "./navbar/NavbarMainMenu";
-export * from "./navbar/NavBarMain2";
+export * from "./buttons/BtnMenuUser";
+export * from "./buttons/BtnMobileMenu";
+export * from "./navbar/NavBarMain";
 export * from "./navbar/NavBarUser";
-export * from "./navbar/BtnMobileMenu";
-export * from "./navbar/BtnMenuUser";
 export * from "./navbar/NavBarMobile";
 export * from "./navbar/SharedButton";
+
 // export * from "./navbar/MenuContext";
 export * from "./titulo/Titulo";
 export * from "./ImageHero";

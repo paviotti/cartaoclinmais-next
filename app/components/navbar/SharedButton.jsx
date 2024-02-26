@@ -1,6 +1,6 @@
 import { useState } from "react";
-import BtnMenuUser from "./BtnMenuUser";
-import BtnMobileMenu from "./BtnMobileMenu";
+import BtnMenuUser from "../buttons/BtnMenuUser";
+import BtnMobileMenu from "../buttons/BtnMobileMenu";
 
 const SharedButton = () => {
   const [isMenuUserOpen, setMenuOpen] = useState(false);
